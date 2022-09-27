@@ -1,0 +1,6 @@
+
+Write - филя степаненко +990001 - Tue Sep 27 20:02:43 2022
+Read_all - data - Tue Sep 27 20:02:58 2022
+Search - смит - Tue Sep 27 20:03:08 2022
+Search - филя - Tue Sep 27 20:03:25 2022
+Print data - {'LastName': 'филя', 'Name': 'степаненко', 'Number': '+990001'} - Tue Sep 27 20:03:25 2022
